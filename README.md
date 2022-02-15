@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sabika19
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning Azure/AWS
+- 💞️ I’m looking to collaborate on .Net/DevOps
+- 📫 Reach me ON +919873690958
